@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1695773567 source:c:\users\usuario\desktop\introduccion\fffffff\pila.cpp
+	"Pila.h"
+
+1695773820 c:\users\usuario\desktop\introduccion\fffffff\pila.h
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1695773632 source:c:\users\usuario\desktop\introduccion\fffffff\main.cpp
+	<conio.h>
+	<stdlib.h>
+	"Pila.h"
+
